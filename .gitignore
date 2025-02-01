@@ -1,0 +1,78 @@
+## .NET Core / .NET 5+ ##
+# User-specific files
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (X64)
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.dll
+
+# .NET Core specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.vspscc
+.vs/
+.vscode/
+
+# ASP.NET
+# Tye
+.tye/
+
+# .NET global tools
+*.dotnet/
+
+# Local tool cache
+~/.dotnet/
+
+# User secrets folder
+/secrets/
+
+# Azure DevOps
+.vsts/
+
+# Publish directory
+bin/
+obj/
+
+# Test results
+TestResults/
+
+# Coverage results
+coverage/
+
+# Npm/Yarn dependencies
+node_modules/
+
+# IDE directories (JetBrains Rider, Visual Studio)
+.idea/
+
+# Other files
+*.db
+*.log
+*.swp
+
+# ASP.NET Core Entity Framework migrations
+Migrations/
+
+# JetBrains Rider
+.idea/
+
+# Package directories
+packages/
